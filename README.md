@@ -14,4 +14,4 @@ exec --no-startup-id compton --config /PATH_TO_FILES/compton.conf
 bindsym $mod+l exec --no-startup-id /PATH_TO_FILES/actglock.sh
 
 
-Works well on Manjaro & Arch Linux with i3 window manager.
+### Works well on Manjaro & Arch Linux with i3 window manager.
