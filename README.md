@@ -7,11 +7,11 @@ You need i3lock, urxvt, compton and unimatrix installed.
 ## Usage:
 You should add these lines to your i3 config.
 
-### set compton configs for actglock
-exec --no-startup-id compton --config /PATH_TO_FILES/compton.conf
+#### set compton configs for actglock
+`exec --no-startup-id compton --config /PATH_TO_FILES/compton.conf`
 
-### ACTG Lock starts with MOD+L
-bindsym $mod+l exec --no-startup-id /PATH_TO_FILES/actglock.sh
+#### ACTG Lock starts with MOD+L
+`bindsym $mod+l exec --no-startup-id /PATH_TO_FILES/actglock.sh`
 
 
 ### Works well on Manjaro & Arch Linux with i3 window manager.
