@@ -14,4 +14,4 @@ You should add these lines to your i3 config.
 `bindsym $mod+l exec --no-startup-id /PATH_TO_FILES/actglock.sh`
 
 
-### Works well on Manjaro & Arch Linux with i3 window manager.
+Tested: Works well on Manjaro Linux and Arch Linux with i3 window manager.
