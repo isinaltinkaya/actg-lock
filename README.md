@@ -12,6 +12,3 @@ You should add these lines to your i3 config.
 
 #### ACTG Lock starts with MOD+L
 `bindsym $mod+l exec --no-startup-id /PATH_TO_FILES/actglock.sh`
-
-
-Tested: Works well on Manjaro Linux and Arch Linux with i3 window manager.
